@@ -1,0 +1,15 @@
+{
+  "originHash" : "f3c9ec25e2aa9bd00a3b7d5666810191b01bf6c9d328adf822f659a8131a3914",
+  "pins" : [
+    {
+      "identity" : "swift-file",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/pelagornis/swift-file",
+      "state" : {
+        "revision" : "7ee381e6799235583f24df235dd14f55ebb48ca9",
+        "version" : "1.1.0"
+      }
+    }
+  ],
+  "version" : 3
+}
