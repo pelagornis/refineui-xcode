@@ -6,7 +6,7 @@ Xcode Theme RefineUI Design System.
 The easiest way to install this Xcode theme is to clone this repo and execute `swift run`:
 
 ```
-$ git clone https://github.com/jihoonme/XcodeTheme.git
+$ git clone https://github.com/pelagornis/refineui-xcode.git
 $ cd XcodeTheme
 $ swift run install
 ```
